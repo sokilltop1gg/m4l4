@@ -1,0 +1,22 @@
+header{
+    background: url("minecraft.png");
+}
+h1{
+    text-align: center;
+    color:#00E0FF ;
+}
+p{
+    font-size: 25px;
+    color: #07E0FF;
+}
+ul{
+
+
+
+   font-size: 19px;
+   color: black;
+}
+footer{
+    background-color: black;
+
+}
